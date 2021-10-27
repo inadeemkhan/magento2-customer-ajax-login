@@ -46,11 +46,11 @@ If you encounter any problems or bugs, please <a href="https://github.com/inadee
 
 <b>SIGN IN FORM</b>
 
-<img src="https://i.ibb.co/VLkj76D/Login-Login.png" alt="Login-Login" border="0">
+<img src="https://i.ibb.co/zbvryqg/Login-Registrasion.png" alt="Login-Registrasion" border="0">
 
 <b>SIGN UP FORM</b>
 
-<img src="https://i.ibb.co/BjMtX0J/Login-Registrasion.png" alt="Login-Registrasion" border="0">
+<img src="https://i.ibb.co/sgXm07Q/Login-Login.png" alt="Login-Login" border="0">
 
 ## Prerequisites
 
