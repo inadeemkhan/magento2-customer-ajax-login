@@ -8,12 +8,10 @@ Free Magento2 extension to login & signup using ajax | Nadeem Khan
 2. Customer can Sign IN / Sign UP Using Ajax Popup.
 3. Works Like a Magento Core Functionality.
 
-# Installation Instruction
-
 ## Main Functionalities
 Free Magento2 extension to login & signup using ajax
 
-### Installation
+## Installation
 
  - Unzip the zip file in `app/code/Nadeem`
  - Enable the module by running `php bin/magento module:enable Nadeem_AjaxLogin`
