@@ -42,23 +42,15 @@ Want to contribute to this extension? The quickest way is to <a href="https://he
 
 # Screenshots & Support
 
-If you encounter any problems or bugs, please <a href="https://github.com/inadeemkhan/magento2-weather-report/issues">open an issue</a> on GitHub.
+If you encounter any problems or bugs, please <a href="https://github.com/inadeemkhan/magento2-customer-ajax-login/issues">open an issue</a> on GitHub.
 
-<b>Admin Configuration</b>
+<b>Sign in Popup</b>
 
-<img src="https://i.ibb.co/YXSFHpP/Admin-Api-Info.png" alt="Admin-Api-Info" border="0">
+<img src="https://i.ibb.co/YpjGnL1/Login-Login.png" alt="Login-Login" border="0">
 
-<b>Get Report Section</b>
+<b>Sign up Popup</b>
 
-<img src="https://i.ibb.co/8M1TJ9q/Get-Report.png" alt="Get-Report" border="0">
-
-<b>Search History Section</b>
-
-<img src="https://i.ibb.co/RS3zcsS/Show-Historic-Report.png" alt="Show-Historic-Report" border="0">
-
-<b>PDF Report Section</b>
-
-<img src="https://i.ibb.co/d0NQJGd/Pdf-Report.png" alt="Pdf-Report" border="0">
+<img src="https://i.ibb.co/F4qyDV3/Login-Registrasion.png" alt="Login-Registrasion" border="0">
 
 ## Prerequisites
 
